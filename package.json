@@ -23,5 +23,9 @@
   },
   "license": "GPL-3.0",
   "name": "vingt-mille",
+  "publisher": "castanhocorreia",
+  "repository": {
+    "url": "https://github.com/castanhocorreia/Vingt-Mille"
+  },
   "version": "1.0.0"
 }
