@@ -1,15 +1,14 @@
 <h3 align="center">Vingt Mille</h3>
 <h5 align="center">A twenty thousand leagues under the seas dark theme for Visual Studio Code.</h5>
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/HavlockV/CoC7-FoundryVTT.svg">
-  <a href="https://github.com/HavlockV/CoC7-FoundryVTT/commits/master">
-    <img src="https://img.shields.io/github/last-commit/HavlockV/CoC7-FoundryVTT.svg">
+  <img src="https://img.shields.io/github/repo-size/castanhocorreia/Vingt-Mille.svg">
+  <a href="https://github.com/castanhocorreia/Vingt-Mille/commits/master">
+    <img src="https://img.shields.io/github/last-commit/castanhocorreia/Vingt-Mille.svg">
   </a>
-  <a href="https://github.com/HavlockV/CoC7-FoundryVTT/issues">
-    <img src="https://img.shields.io/github/issues/HavlockV/CoC7-FoundryVTT.svg">
+  <a href="https://github.com/castanhocorreia/Vingt-Mille/issues">
+    <img src="https://img.shields.io/github/issues/castanhocorreia/Vingt-Mille.svg">
   </a>
-  <img src="https://img.shields.io/github/license/HavlockV/CoC7-FoundryVTT.svg">
-  <img src="https://img.shields.io/github/downloads/HavlockV/CoC7-FoundryVTT/latest/total">
+  <img src="https://img.shields.io/github/license/castanhocorreia/Vingt-Mille.svg">
 </p>
 
 ![1](images/1.jpeg)
