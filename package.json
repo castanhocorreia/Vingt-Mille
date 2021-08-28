@@ -1,0 +1,27 @@
+{
+  "author": {
+    "name": "Castanho Correia",
+    "url": "https://github.com/castanhocorreia",
+    "email": "joaocorr@outlook.com"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vingt Mille",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vingt-mille-color-theme.json"
+      }
+    ]
+  },
+  "description": "A twenty thousand leagues under the seas dark theme.",
+  "displayName": "Vingt Mille",
+  "engines": {
+    "vscode": "^1.59.0"
+  },
+  "license": "GPL-3.0",
+  "name": "vingt-mille",
+  "version": "1.0.0"
+}
